@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.starsContainer{
+    margin-bottom: 1rem;
+}
+
+.star-value{
+    font-size: 30px;
+    font-weight: 500;
+
+}
